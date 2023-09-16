@@ -1,0 +1,331 @@
+{
+  "mod_elements": [
+    {
+      "name": "OneMC",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "one_mc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minecredit/item/OneMCItem.java",
+          "src/main/resources/assets/minecredit/models/item/one_mc.json"
+        ]
+      }
+    },
+    {
+      "name": "TwoMC",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "two_mc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minecredit/item/TwoMCItem.java",
+          "src/main/resources/assets/minecredit/models/item/two_mc.json"
+        ]
+      }
+    },
+    {
+      "name": "FiveMC",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "five_mc",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/minecredit/models/item/five_mc.json",
+          "src/main/java/net/mcreator/minecredit/item/FiveMCItem.java"
+        ]
+      }
+    },
+    {
+      "name": "TenMC",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ten_mc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minecredit/item/TenMCItem.java",
+          "src/main/resources/assets/minecredit/models/item/ten_mc.json"
+        ]
+      }
+    },
+    {
+      "name": "TwentyMC",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twenty_mc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minecredit/item/TwentyMCItem.java",
+          "src/main/resources/assets/minecredit/models/item/twenty_mc.json"
+        ]
+      }
+    },
+    {
+      "name": "FiftyMC",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fifty_mc",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/minecredit/models/item/fifty_mc.json",
+          "src/main/java/net/mcreator/minecredit/item/FiftyMCItem.java"
+        ]
+      }
+    },
+    {
+      "name": "OneHundredMC",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "one_hundred_mc",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/minecredit/models/item/one_hundred_mc.json",
+          "src/main/java/net/mcreator/minecredit/item/OneHundredMCItem.java"
+        ]
+      }
+    },
+    {
+      "name": "TenThousandMC",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ten_thousand_mc",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/minecredit/models/item/ten_thousand_mc.json",
+          "src/main/java/net/mcreator/minecredit/item/TenThousandMCItem.java"
+        ]
+      }
+    },
+    {
+      "name": "OneHundredthMC",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "one_hundredth_mc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minecredit/item/OneHundredthMCItem.java",
+          "src/main/resources/assets/minecredit/models/item/one_hundredth_mc.json"
+        ]
+      }
+    },
+    {
+      "name": "TwoHundredthMC",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "two_hundredth_mc",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/minecredit/models/item/two_hundredth_mc.json",
+          "src/main/java/net/mcreator/minecredit/item/TwoHundredthMCItem.java"
+        ]
+      }
+    },
+    {
+      "name": "FiveHundredthMC",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "five_hundredth_mc",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/minecredit/models/item/five_hundredth_mc.json",
+          "src/main/java/net/mcreator/minecredit/item/FiveHundredthMCItem.java"
+        ]
+      }
+    },
+    {
+      "name": "TenthMC",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tenth_mc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minecredit/item/TenthMCItem.java",
+          "src/main/resources/assets/minecredit/models/item/tenth_mc.json"
+        ]
+      }
+    },
+    {
+      "name": "TwentithMC",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twentith_mc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minecredit/item/TwentithMCItem.java",
+          "src/main/resources/assets/minecredit/models/item/twentith_mc.json"
+        ]
+      }
+    },
+    {
+      "name": "FifthMC",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fifth_mc",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/minecredit/models/item/fifth_mc.json",
+          "src/main/java/net/mcreator/minecredit/item/FifthMCItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CashCard",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cash_card",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minecredit/item/CashCardItem.java",
+          "src/main/resources/assets/minecredit/models/item/cash_card.json"
+        ]
+      }
+    },
+    {
+      "name": "Wallet",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wallet",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minecredit/item/WalletItem.java",
+          "src/main/resources/assets/minecredit/models/item/wallet.json"
+        ]
+      }
+    },
+    {
+      "name": "MineCredit",
+      "type": "tab",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mine_credit",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "CraftWallet",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_wallet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecredit/recipes/craft_wallet.json"
+        ]
+      }
+    },
+    {
+      "name": "MoneyDrop",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "money_drop",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minecredit/procedures/MoneyDropProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.minecredit.two_mc": "Two MC",
+      "item.minecredit.cash_card": "Cash Card",
+      "item.minecredit.ten_thousand_mc": "Ten Thousand MC",
+      "item.minecredit.five_hundredth_mc": "Five Hundredth MC",
+      "item.minecredit.ten_mc": "Ten MC",
+      "item.minecredit.twenty_mc": "Twenty MC",
+      "item.minecredit.twentith_mc": "Twentith MC",
+      "itemGroup.tabmine_credit": "Mine Credit",
+      "item.minecredit.one_mc": "One MC",
+      "item.minecredit.fifty_mc": "Fifty MC",
+      "item.minecredit.tenth_mc": "Tenth MC",
+      "item.minecredit.one_hundredth_mc": "One Hundredth MC",
+      "item.minecredit.five_mc": "Five MC",
+      "item.minecredit.one_hundred_mc": "One Hundred MC",
+      "item.minecredit.two_hundredth_mc": "Two Hundredth MC",
+      "item.minecredit.fifth_mc": "Fifth MC",
+      "item.minecredit.wallet": "Wallet"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "minecredit",
+    "modName": "MineCredit",
+    "version": "1.0.0",
+    "author": "gatx1, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "net.mcreator.minecredit",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}

@@ -219,6 +219,7 @@
       "registry_name": "wallet",
       "metadata": {
         "files": [
+          "src/main/java/net/mcreator/minecredit/item/inventory/WalletInventoryCapability.java",
           "src/main/java/net/mcreator/minecredit/item/WalletItem.java",
           "src/main/resources/assets/minecredit/models/item/wallet.json"
         ]
@@ -281,6 +282,33 @@
           }
         ]
       }
+    },
+    {
+      "name": "WornoutWallet",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wornout_wallet",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/minecredit/models/item/wornout_wallet.json",
+          "src/main/java/net/mcreator/minecredit/item/WornoutWalletItem.java"
+        ]
+      }
+    },
+    {
+      "name": "WalletGUI",
+      "type": "gui",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wallet_gui",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/minecredit/world/inventory/WalletGUIMenu.java",
+          "src/main/java/net/mcreator/minecredit/client/gui/WalletGUIScreen.java"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -289,6 +317,8 @@
     "en_us": {
       "item.minecredit.two_mc": "Two MC",
       "item.minecredit.cash_card": "Cash Card",
+      "gui.minecredit.wallet_gui.label_wallet": "Wallet",
+      "item.minecredit.wornout_wallet": "Wornout Wallet",
       "item.minecredit.ten_thousand_mc": "Ten Thousand MC",
       "item.minecredit.five_hundredth_mc": "Five Hundredth MC",
       "item.minecredit.ten_mc": "Ten MC",

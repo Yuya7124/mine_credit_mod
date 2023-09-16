@@ -1,6 +1,8 @@
 {
-  "item.minecredit.cash_card": "Cash Card",
   "item.minecredit.two_mc": "Two MC",
+  "item.minecredit.cash_card": "Cash Card",
+  "gui.minecredit.wallet_gui.label_wallet": "Wallet",
+  "item.minecredit.wornout_wallet": "Wornout Wallet",
   "item.minecredit.ten_thousand_mc": "Ten Thousand MC",
   "item.minecredit.five_hundredth_mc": "Five Hundredth MC",
   "item.minecredit.ten_mc": "Ten MC",

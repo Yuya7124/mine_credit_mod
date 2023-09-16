@@ -10,6 +10,7 @@ import net.minecraftforge.registries.DeferredRegister;
 
 import net.minecraft.world.item.Item;
 
+import net.mcreator.minecredit.item.WornoutWalletItem;
 import net.mcreator.minecredit.item.WalletItem;
 import net.mcreator.minecredit.item.TwoMCItem;
 import net.mcreator.minecredit.item.TwoHundredthMCItem;
@@ -46,4 +47,5 @@ public class MinecreditModItems {
 	public static final RegistryObject<Item> TEN_THOUSAND_MC = REGISTRY.register("ten_thousand_mc", () -> new TenThousandMCItem());
 	public static final RegistryObject<Item> CASH_CARD = REGISTRY.register("cash_card", () -> new CashCardItem());
 	public static final RegistryObject<Item> WALLET = REGISTRY.register("wallet", () -> new WalletItem());
+	public static final RegistryObject<Item> WORNOUT_WALLET = REGISTRY.register("wornout_wallet", () -> new WornoutWalletItem());
 }

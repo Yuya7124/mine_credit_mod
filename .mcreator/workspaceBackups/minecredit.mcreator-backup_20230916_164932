@@ -281,6 +281,20 @@
           }
         ]
       }
+    },
+    {
+      "name": "WornoutWallet",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wornout_wallet",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/minecredit/models/item/wornout_wallet.json",
+          "src/main/java/net/mcreator/minecredit/item/WornoutWalletItem.java"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -289,6 +303,7 @@
     "en_us": {
       "item.minecredit.two_mc": "Two MC",
       "item.minecredit.cash_card": "Cash Card",
+      "item.minecredit.wornout_wallet": "Wornout Wallet",
       "item.minecredit.ten_thousand_mc": "Ten Thousand MC",
       "item.minecredit.five_hundredth_mc": "Five Hundredth MC",
       "item.minecredit.ten_mc": "Ten MC",
